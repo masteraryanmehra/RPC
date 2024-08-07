@@ -4,6 +4,12 @@
     text-align: center;
 }
 
+body {
+  transform: scale(0.9);
+  transform-origin: top left;
+}
+
+
 .choice:hover{
     cursor: pointer;
     background-color: #010400;
