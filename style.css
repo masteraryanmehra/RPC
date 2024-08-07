@@ -7,6 +7,7 @@
 body {
   transform: scale(0.9);
   transform-origin: top left;
+  width: 111.11%; /* 100% / 0.9 */
 }
 
 
